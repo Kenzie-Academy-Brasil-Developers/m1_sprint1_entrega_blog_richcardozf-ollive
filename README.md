@@ -1,4 +1,4 @@
-# Blog Posts Projeto M!
+# Blog Posts Projeto M1
 
 Este é um código HTML que exibe uma série de postagens de um blog e uma seção para assinatura da newsletter.
 
